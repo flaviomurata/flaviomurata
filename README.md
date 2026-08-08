@@ -22,36 +22,20 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#flaviomurata-tech"><img src="./img/go-original.svg" width="48" height="48" alt="Golang" /></a>
+      <a href="#flaviomurata-tech"><img src="./img/python.svg" width="48" height="48" alt="Golang" /></a>
       <br>Go
     </td>
     <td align="center" width="96">
-      <a href="#flaviomurata-tech"><img src="./img/kcl-icon-color.svg" width="48" height="48" alt="KCL" /></a>
+      <a href="#flaviomurata-tech"><img src="./img/aws.svg" width="48" height="48" alt="KCL" /></a>
       <br>KCL
     </td>
     <td align="center" width="96">
-      <a href="#flaviomurata-tech"><img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" /></a>
+      <a href="#flaviomurata-tech"><img src="./img/docker.svg" width="48" height="48" alt="TypeScript" /></a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#flaviomurata-tech"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" /></a>
       <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="#flaviomurata-tech"><img src="./img/dagger.svg" width="48" height="48" alt="Dagger" /></a>
-      <br>Dagger
-    </td>
-    <td align="center" width="96">
-      <a href="#flaviomurata-tech"><img src="./img/nixos-original.svg" width="48" height="48" alt="Nix" /></a>
-      <br>Nix
-    </td>
-    <td align="center" width="96">
-      <a href="#flaviomurata-tech"><img src="./img/tmux.svg" width="48" height="48" alt="Tmux" /></a>
-      <br>tmux
-    </td>
-    <td align="center" width="96">
-      <a href="#flaviomurata-tech"><img src="./img/neovim-original.svg" width="48" height="48" alt="Neovim" /></a>
-      <br>nvim
     </td>
   </tr>
 </table>
