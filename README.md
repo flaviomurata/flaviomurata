@@ -1,5 +1,5 @@
 <h1 align="left" id="flaviomurata-title">:wave: Hello there! I'm Flavio Murata</h1>
-<h3 align="left">I do SW/DevOps/Cloud Engineering things</h3>
+<h3 align="left">I do SW/Cloud/Platform Engineering things</h3>
 
 <p align="left">
   <a href="https://github.com/flaviomurata/flaviomurata"><img src="https://komarev.com/ghpvc/?username=flaviomurata" alt="page views" /></a>
@@ -9,7 +9,7 @@
 <a href="#flavimurata-title"><img src="https://raw.githubusercontent.com/flaviomurata/github-stats-transparent/output/generated/overview.svg" alt="flaviomurata" align="right" /></a>
 
 - :seedling: &nbsp;I’m currently working on my **[url shortener project]**
-- :speech_balloon: &nbsp;I like to talk about **Cloud Architecting** and **MLOps/AI**
+- :speech_balloon: &nbsp;I like to talk about **Cloud Architecture** and **MLOps/AI**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
