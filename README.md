@@ -37,6 +37,10 @@
       <a href="#flaviomurata-tech"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" /></a>
       <br>Kubernetes
     </td>
+    <td align="center" width="96">
+      <a href="#flaviomurata-tech"><img src="./img/fastapi.svg" width="48" height="48" alt="FastAPI" /></a>
+      <br>FastAPI
+    </td>
   </tr>
 </table>
 
