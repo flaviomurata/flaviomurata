@@ -8,7 +8,7 @@
 
 <a href="#flavimurata-title"><img src="https://raw.githubusercontent.com/flaviomurata/github-stats-transparent/output/generated/overview.svg" alt="flaviomurata" align="right" /></a>
 
-- :seedling: &nbsp;I’m currently working on my **[]**
+- :seedling: &nbsp;I’m currently working on my **[coding problems vault project]**
 - :speech_balloon: &nbsp;I like to talk about **AI systems** and **Cloud infrastructure**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
@@ -48,4 +48,4 @@
 
 [issues page]: https://github.com/flaviomurata/flaviomurata/issues "flaviomurata/issues"
 [linkedin]: https://www.linkedin.com/in/flaviomurata "Flavio Murata LinkedIn"
-[homelab]: https://github.com/flaviomurata/homelab "flaviomurata/homelab"
+[coding problems vault project]: https://github.com/flaviomurata/coding-problems-vault "flaviomurata/coding-problems-vault"
